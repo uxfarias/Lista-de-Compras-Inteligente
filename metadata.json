@@ -1,0 +1,5 @@
+{
+  "name": "Lista de Compras Inteligente",
+  "description": "Um aplicativo para ajudar você a encontrar os melhores preços para seus produtos de supermercado, comparando o valor por unidade (g/ml) em diferentes mercados e calculando o custo total para a quantidade desejada.",
+  "requestFramePermissions": []
+}
